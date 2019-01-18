@@ -232,6 +232,24 @@ img::-moz-selection {
 /*Fin of CSS Text*/
 
 
+
+.fa {
+    padding: 200px;
+    font-size: 30px;
+    width: 50px;
+   
+    
+    
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+      display:inline-block;
+  }
+  
+  
+  
+
 @media (min-width:768px) {
     header.masthead p {
         font-size: 1.15rem;
