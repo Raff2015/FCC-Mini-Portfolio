@@ -233,21 +233,15 @@ img::-moz-selection {
 
 
 
-.fa {
-    padding: 200px;
-    font-size: 30px;
-    width: 50px;
-   
-    
-    
-  }
+
+ 
   
-  .fa:hover {
-      opacity: 0.7;
-      display:inline-block;
-  }
-  
-  
+  .fa-github:hover {
+    color: black;
+}
+.fa-at:hover {
+    color: orange;
+}
   
 
 @media (min-width:768px) {
