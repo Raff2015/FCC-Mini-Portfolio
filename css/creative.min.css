@@ -149,11 +149,6 @@ img::-moz-selection {
     background-color: transparent;
 }
 
-#nav-bar .navbar-nav>li.nav-item>a.nav-link.active:hover,
-#nav-bar .navbar-nav>li.nav-item>a.nav-link:focus.active:hover {
-    background-color: ;
-}
-
 @media (min-width:992px) {
    
     #nav-bar .navbar-nav>li.nav-item>a.nav-link {
@@ -164,7 +159,7 @@ img::-moz-selection {
 
     #nav-bar .navbar-nav>li.nav-item>a.nav-link:focus:hover,
     #nav-bar .navbar-nav>li.nav-item>a.nav-link:hover {
-        color: #fff;
+        color: #000000;
     }
 
     #nav-bar.navbar-shrink {
